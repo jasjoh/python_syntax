@@ -18,4 +18,7 @@ def count_up(start, stop):
         print(num)
         num+=1
 
+    #for num in range(start,stop+1):
+    #    print (num)
+
 count_up(5, 7)
